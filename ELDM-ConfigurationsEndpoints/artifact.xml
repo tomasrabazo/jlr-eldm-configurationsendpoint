@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="CISGETConfigurations.xml" groupId="com.jlr-apps.fabric.endpoint" version="develop-SNAPSHOT" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/CISGETConfigurations.xml</file>
+    </artifact>
+    <artifact name="CISPOSTConfigurations.xml" groupId="com.jlr-apps.fabric.endpoint" version="develop-SNAPSHOT" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/CISPOSTConfigurations.xml</file>
+    </artifact>
+    <artifact name="CISPUTConfigurations.xml" groupId="com.jlr-apps.fabric.endpoint" version="develop-SNAPSHOT" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/CISPUTConfigurations.xml</file>
+    </artifact>
+</artifacts>
